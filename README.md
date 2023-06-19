@@ -1,11 +1,11 @@
-About r-gpca
-============
+About r-gpca-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gpca-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=gPCA
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gpca-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package implements guided principal components analysis for the detection of batch effects in high-throughput data.
 
